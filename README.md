@@ -6,6 +6,11 @@
 
 Auto Piano Player is a Python-based tool designed to automate keypress sequences for playing virtual pianos. It allows users to easily configure key presses and delays between them, with additional features like looping, adding multiple keys per sequence, and saving/loading configurations from a JSON file.
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/f002a78f-b3c4-4253-9bfc-03b14a2c9cb3" width="300"/>
+  <img src="https://github.com/user-attachments/assets/be244527-4522-400d-8a9e-b0c66693a6de" width="250"/>
+</p>
+
 ## Features
 
 - **Add multiple keys**: Allows you to add multiple keys to be played together.
